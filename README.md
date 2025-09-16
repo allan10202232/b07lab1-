@@ -1,2 +1,2 @@
-# b07lab1-
+# b07lab1
 A personal blog used to update everyday learning
